@@ -15,3 +15,6 @@ python3 lmstudio_chat_v04.py
 
 # Unloading Models
 For unloading models remotely there is no REST API natively - lmstudio_server.py does that and it fetches Model Data 
+
+# UI
+![image](https://github.com/user-attachments/assets/925d5b23-9318-4648-9379-652647967454)
