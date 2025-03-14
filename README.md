@@ -18,3 +18,6 @@ For unloading models remotely there is no REST API natively - lmstudio_server.py
 
 # UI
 ![image](https://github.com/user-attachments/assets/925d5b23-9318-4648-9379-652647967454)
+
+![image](https://github.com/user-attachments/assets/62a992b8-4936-4577-bf7d-72840b1130e7)
+
